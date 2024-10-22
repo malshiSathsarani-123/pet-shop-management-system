@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  h1 {
+    font-size: 2.25rem;
+  }
+  
+  button {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    transform: translateY(-2px);
+
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #1E40AF; 
+  }
+  #hero_banner{  
+    top: 0;
+   height: 695px;
+   background: linear-gradient(102.87deg, #FCEED5 6.43%, #FCEED5 78.33%, #FFE7BA 104.24%);  
+   gap: 0px;
+    border-radius: 0px 0px 40px 40px;
+    opacity: 0px;
+  }
+  .mainFot{
+    position: relative;
+    left: 6vw;
+   
+  }
+  .mainImage{
+    position: absolute;
+    left: 50vw;
+    width: 944px;
+    height: 580px;
+  top: 17vh;
+  left: 530px;
+  gap: 0px;
+  opacity: 0px; 
+
+  }
+    /* Header Desktop */
+
+/* Auto layout */
+
+
+  
